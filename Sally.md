@@ -1,6 +1,6 @@
 # Sally
 
-![headshot](img/user.png)
+![headshot](img/sally.png)
 
 ## Job/role description
 

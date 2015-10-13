@@ -1,6 +1,6 @@
 # Lula
 
-![headshot](img/user.png)
+![headshot](img/lula.png)
 
 ## Job/role description
 

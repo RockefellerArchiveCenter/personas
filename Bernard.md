@@ -1,6 +1,6 @@
 # Bernard
 
-![headshot](img/user.png)
+![headshot](img/bernard.png)
 
 ## Job/role description
 

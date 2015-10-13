@@ -1,6 +1,6 @@
 # Fred
 
-![headshot](img/user.png)
+![headshot](img/fred.png)
 
 ## Job/role description
 

@@ -1,6 +1,6 @@
 # Tom
 
-![headshot](img/user.png)
+![headshot](img/tom.png)
 
 ## Job/role description
 
