@@ -4,9 +4,9 @@ A collection of personas created for use in development projects at the Rockefel
 
 ##Digital Asset Management System
 
-* [Fred](Fred.md), employee of donor institution
-* [Tom](Tom.md), employee of individual donor
-* [Lula](Lula.md), experience researcher
 * [Bernard](Bernard.md), novice researcher
+* [Fred](Fred.md), employee of donor institution
 * [Joe](Joe.md), junior staff member
+* [Lula](Lula.md), experience researcher
 * [Sally](Sally.md), senior staff member
+* [Tom](Tom.md), employee of individual donor
