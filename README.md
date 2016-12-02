@@ -10,3 +10,15 @@ A collection of personas created for use in development projects at the Rockefel
 * [Lula](Lula.md), experience researcher
 * [Sally](Sally.md), senior staff member
 * [Tom](Tom.md), employee of individual donor
+
+## Requirements
+
+These personas are written in Markdown and can be viewed in any text editor.
+
+## Authors
+
+Hillel Arnold
+
+## License
+
+Content is CC0 licensed.
