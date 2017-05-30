@@ -1,8 +1,8 @@
-#Rockefeller Archive Center Personas
+# Rockefeller Archive Center Personas
 
 A collection of personas created for use in development projects at the Rockefeller Archive Center.
 
-##Digital Asset Management System
+## Digital Asset Management System
 
 * [Bernard](Bernard.md), novice researcher
 * [Fred](Fred.md), employee of donor institution
