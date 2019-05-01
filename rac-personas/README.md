@@ -17,7 +17,7 @@ These personas are written in Markdown and can be viewed in any text editor.
 
 ## Authors
 
-Hillel Arnold
+Hillel Arnold, 2015
 
 ## License
 
